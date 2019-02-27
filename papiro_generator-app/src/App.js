@@ -20,13 +20,14 @@ class App extends Component {
     var validchars = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz()_/!$";
 
     var tab0 = new Array(
-      "Já começou ",
+      "Legal, já começou ",
       "8h da manhã e vocês n",
       "Voces só n",
       "Impressionante ",
       "Claro que já estao n",
-      "Vai a merda, já ness",
-      "Chega dess"
+      "Vai-te a merda, cornos, já ness",
+      "Chega dess",
+      "Esse grupo aqui é aquele velho negócio, a gente pede uma informação útil mas começa "
     );
 
     var tab1 = new Array(
@@ -34,7 +35,8 @@ class App extends Component {
       "a jorração ",
       "a putaria ",
       "a palhaçada ",
-      "a babaquice "
+      "a babaquice ",
+      "o papo imbecil "
     );
 
     var tab2 = new Array(
@@ -46,11 +48,10 @@ class App extends Component {
       "e o Felipe Neto ",
       "e o Leo ",
       "e o Mouse ",
-      "e os mongolôides ",
+      "e os mongolóides ",
       "e os retardados ",
       "e o Gorski ",
-      "e a Marcinha ",
-      ", vou te jogar na caçamba de lixo, "
+      "e a Marcinha "
     );
 
     var tab3 = new Array(
@@ -68,7 +69,17 @@ class App extends Component {
       "pegando AIDS.",
       "dando ré no kibe.",
       "ligando o sininho nas minas.",
-      "se tornou tudo que abominou um dia. Palmas!!!"
+      "se tornou tudo que abominou um dia. Palmas!",
+      "não cala a boca, doente.",
+      "é protagonista de mais uma história imbecil.",
+      "não para de vomitar.",
+      "me deixou puto a ponto de capotar um Clio.",
+      "tatuando caveira no cu.",
+      "comprando merda enlatada na Steam só porque tá em promoção.",
+      "falando de caneta merda pra velho de 60 anos assinar contrato.",
+      "é um símio que não sabe escrever, não é culpa minha.",
+      "há 10 dias perguntando em que sushi levar a guria mirim.",
+      "se jogando na caçamba de lixo."
     );
 
     Array.prototype.shuffle = function () {
