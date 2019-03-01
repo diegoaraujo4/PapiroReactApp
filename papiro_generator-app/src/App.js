@@ -22,9 +22,9 @@ class App extends Component {
     var tab0 = new Array(
       "Legal, já começou ",
       "8h da manhã e vocês n",
-      "Voces só n",
+      "Vocês só n",
       "Impressionante ",
-      "Claro que já estao n",
+      "Claro que já estão n",
       "Vai-te a merda, cornos, já ness",
       "Chega dess",
       "Esse grupo aqui é aquele velho negócio, a gente pede uma informação útil mas começa "
@@ -36,7 +36,8 @@ class App extends Component {
       "a putaria ",
       "a palhaçada ",
       "a babaquice ",
-      "o papo imbecil "
+      "o papo imbecil ",
+      "a merdinha pré-almoço "
     );
 
     var tab2 = new Array(
@@ -51,7 +52,9 @@ class App extends Component {
       "e os mongolóides ",
       "e os retardados ",
       "e o Gorski ",
-      "e a Marcinha "
+      "e a Marcinha ",
+      "e o Atendende do Subway ",
+      "e esse grupo "
     );
 
     var tab3 = new Array(
@@ -79,7 +82,8 @@ class App extends Component {
       "falando de caneta merda pra velho de 60 anos assinar contrato.",
       "é um símio que não sabe escrever, não é culpa minha.",
       "há 10 dias perguntando em que sushi levar a guria mirim.",
-      "se jogando na caçamba de lixo."
+      "se jogando na caçamba de lixo.",
+      "pegando sorvete de bosta pra colocar calda de merda e confeito de fezes e no fim jogam uma cereja em cima."
     );
 
     Array.prototype.shuffle = function () {
