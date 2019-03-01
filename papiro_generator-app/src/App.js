@@ -83,7 +83,7 @@ class App extends Component {
       "é um símio que não sabe escrever, não é culpa minha.",
       "há 10 dias perguntando em que sushi levar a guria mirim.",
       "se jogando na caçamba de lixo.",
-      "pegando sorvete de bosta pra colocar calda de merda e confeito de fezes e no fim jogam uma cereja em cima."
+      "pegando sorvete de bosta pra colocar calda de merda e confeito de fezes e no fim jogar uma cereja em cima."
     );
 
     Array.prototype.shuffle = function () {
