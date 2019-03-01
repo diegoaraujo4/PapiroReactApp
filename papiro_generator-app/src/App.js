@@ -36,7 +36,7 @@ class App extends Component {
       "a putaria ",
       "a palhaçada ",
       "a babaquice ",
-      "o papo imbecil ",
+      "e papo imbecil ",
       "a merdinha pré-almoço "
     );
 
