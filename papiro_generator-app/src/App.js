@@ -146,7 +146,8 @@ render() {
           </p>
         <Button data-id="1" variant="contained" size="large" color="primary" onClick={this.handleClick}>
           Jorrar!
-          </Button>
+        </Button>
+		<br>
 		<Button data-id="2" variant="contained" size="large" color="primary" onClick={this.handleClick}>
           Fistar!
           </Button>
