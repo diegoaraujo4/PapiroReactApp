@@ -144,13 +144,19 @@ render() {
         <p>
           Gere uma frase do nosso grandioso Leozão/Khaoz/Sapatinho.
           </p>
+	  <div>
+	    <div>
         <Button data-id="1" variant="contained" size="large" color="primary" onClick={this.handleClick}>
           Jorrar!
         </Button>
-		</br>
+	    </div>
+	    <div>
+		
 		<Button data-id="2" variant="contained" size="large" color="primary" onClick={this.handleClick}>
           Fistar!
           </Button>
+	    </div>
+	  </div>
         <p>
           {this.state.text}
         </p>
